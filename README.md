@@ -1,6 +1,6 @@
 i'm a developer, generate a java test units for me to test this class,
 
-{ package com.example;
+package com.example;
 import com.shapes.*;
 
 /**
@@ -31,7 +31,6 @@ public class App
         System.out.println("Circumference of circle: " + circle.getCircumference());
 
     }
-}
 }
 
 
