@@ -1,6 +1,6 @@
 i'm a developer, generate a java test units for me to test this class,
 
-package com.example;
+\** package com.example;
 import com.shapes.*;
 
 /**
@@ -31,7 +31,7 @@ public class App
         System.out.println("Circumference of circle: " + circle.getCircumference());
 
     }
-}
+}**\
 
 
 knowing that i'm working on linux and i'm using maven for my project structure and also to build my project.
