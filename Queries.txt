@@ -35,3 +35,7 @@ public class App
 
 
 knowing that i'm working on linux and i'm using maven for my project structure and also to build my project.
+
+For documentation:
+1- This is a sample documentation for the com.example.App class. Can you provide a sample documentation for the com.example.App class?
+2- I am a beginner in Java programming and I am trying to understand how to write documentation for my classes. I have a simple Java application that I would like to document, but I am not sure how to structure the documentation. Can you provide a sample documentation for the com.example.App class? I would like to see how to document the constructors, methods, variables, and main method of the class. Thank you for your help.
